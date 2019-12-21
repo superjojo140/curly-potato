@@ -1,0 +1,22 @@
+{
+  "name": "curly-potato",
+  "version": "1.0.0",
+  "description": "A Ridddle",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superjojo140/curly-potato.git"
+  },
+  "author": "superjojo140",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superjojo140/curly-potato/issues"
+  },
+  "homepage": "https://github.com/superjojo140/curly-potato#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
